@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+laptopunderbudget.com	TRUE	/	FALSE	1999999999	bp_user-role	guest
+laptopunderbudget.com	TRUE	/	FALSE	1999999999	bp_user-registered	0
+.google.com	TRUE	/	FALSE	1999999999	NID	201=oR1p5fKsRO62hi-Xv5TSeLaQSvNOk14mVoT3L9TfehcnWKyJEwYwj-C2n0ypkrN7XiOlD-RNU6NeA4DFzB7cZpaEZH8gY-YNsdZKDMU-gbQPASJIgZmo6hHTqctyK_juAVT_bfbANoRW7rDXBMqH8UMgagr5bCOINApJTMKZO8U
+.pinterest.com	TRUE	/	FALSE	1999999999	__cfduid	d6cbeed4ca7b884c48232700d87de8e341586153259
+assets.pinterest.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
